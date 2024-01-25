@@ -1,0 +1,20 @@
+[
+  {
+    "name": "The Cat",
+    "id": "cat1",
+    "met": "0",
+    "img": "coolcat.jpg",
+    "text": {
+      "met0": "Greetings my lorrrd, I have heard you were looking for the Purrrrest Cat."
+    }
+  },
+
+  {
+    "name": "The Rat",
+    "id": "rat1",
+    "met": "0",
+    "text": {
+      "met0": "Your Majesty, you claimed for a bureaucrat ?"
+    }
+  }
+]
